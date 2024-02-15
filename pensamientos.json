@@ -1,0 +1,16 @@
+{
+    "clave": "Calor y molest\u00eda",
+    "texto": "El calor quema y la molestia aparece danzante y fluctuante entre rios coloridos.",
+    "izquierda": null,
+    "derecha": {
+        "clave": "Envoltura-Espiral",
+        "texto": "Los cambios se dan sin pensar como el rio, fluyendo sin esperar, actuar cuando se deba actuar y callar cuando se deba callar.Cada momento tiene su propia verdad que contar.",
+        "izquierda": null,
+        "derecha": {
+            "clave": "psycho_random_vibe",
+            "texto": "Situaciones bajan y luego revotando como queriendo anunciar su coqueter\u00eda.",
+            "izquierda": null,
+            "derecha": null
+        }
+    }
+}
