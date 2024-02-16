@@ -5,17 +5,27 @@
         "Seguimos atacando en medio de sonidos explosivos que venganza pasan buscando."
     ],
     "fechas_modificacion": [
-        "2024-02-14 16:55:17",
-        "2024-02-14 16:56:25"
+        "2024-02-16 15:10:05",
+        "2024-02-16 15:10:05"
     ],
-    "izquierda": null,
+    "izquierda": {
+        "clave": "fallas en la matrix",
+        "textos": [
+            "Hoy d\u00eda la matrix empezo a fallar sutilmente mostrando que a pesar de que sus fallas son evidente el mundo sigue la corriente como si nada."
+        ],
+        "fechas_modificacion": [
+            "2024-02-16 15:11:03"
+        ],
+        "izquierda": null,
+        "derecha": null
+    },
     "derecha": {
         "clave": "locura vibratoria",
         "textos": [
             "Los herm\u00e9ticos se esconden como anunciando algo entre teclas y pantalas."
         ],
         "fechas_modificacion": [
-            "2024-02-14 16:55:17"
+            "2024-02-16 15:10:05"
         ],
         "izquierda": null,
         "derecha": null

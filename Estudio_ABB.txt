@@ -1,0 +1,19 @@
+
+Recursividad en Árboles Binarios de Búsqueda (ABB)
+
+1. Introducción a la Recursividad en ABB:
+La recursividad es una herramienta fundamental en la implementación de Árboles Binarios de Búsqueda, permitiendo operaciones como inserción, búsqueda y recorrido de manera eficiente y con menos código.
+
+2. Comparación de Claves de Texto:
+Las claves de texto se comparan lexicográficamente, determinando su posición en el árbol. "Menor que" y "mayor que" se aplican según el orden alfabético extendido a cadenas de caracteres.
+
+3. Estructura del Árbol Basada en JSON:
+Un ejemplo de estructura de ABB utilizando JSON demuestra cómo se organizan los nodos según sus claves lexicográficas. La clave "calor y molestia" actúa como nodo raíz, con nodos hijo "fallas en la matrix" e "locura vibratoria" a la izquierda y derecha, respectivamente.
+
+4. Inserción de Nuevos Nodos:
+La inserción sigue reglas específicas que mantienen la integridad del árbol. Un nuevo nodo con una clave que comienza con "A" se insertaría en el subárbol izquierdo del nodo raíz existente, no como nuevo nodo raíz.
+
+5. Modificación de Nodos:
+Todos los nodos, incluido el nodo raíz, pueden modificarse en términos de sus datos asociados. Cambiar la clave de un nodo implica eliminar y reinsertar el nodo con la nueva clave para preservar la estructura del árbol.
+
+Este documento resume los conceptos clave discutidos sobre la recursividad, comparación de claves, estructura, inserción y modificación en Árboles Binarios de Búsqueda.
